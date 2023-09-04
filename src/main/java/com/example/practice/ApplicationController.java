@@ -9,7 +9,7 @@ public class ApplicationController {
 
 	@RequestMapping("/hello")
 	public String greetAll() {
-		return "Hello World";
+		return "Hello to this World";
 	}
 	
 }
